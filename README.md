@@ -1,14 +1,15 @@
 # E2EECPE
 
 This repository contains the code and dataset of the following paper:
-[Haolin Song](https://genezc.github.io), [Chen Zhang](https://genezc.github.io), [Qiuchi Li](https://qiuchili.github.io), [Dawei Song](http://cs.bit.edu.cn/szdw/jsml/js/sdw/index.htm). **End-to-end Emotion-Cause Pair Extraction via Learning to Link**. arXiv preprint arxiv:2002.10710(2020). [paper link](https://arxiv.org/abs/2002.10710)
+[Haolin Song](https://shl5133.github.io), [Chen Zhang](https://genezc.github.io), [Qiuchi Li](https://qiuchili.github.io), [Dawei Song](http://cs.bit.edu.cn/szdw/jsml/js/sdw/index.htm). **End-to-end Emotion-Cause Pair Extraction via Learning to Link**. arXiv preprint arxiv:2002.10710(2020). [paper link](https://arxiv.org/abs/2002.10710)
 
 ## Model
 
 An overview of our model is given below:
 
-![model](/images/model.png)
-
+![model](/images/model.PNG)
+## Dataset
+The Dataset we are using is a publicly available dataset released by [(Xia and Ding 2019)](https://www.aclweb.org/anthology/P19-1096.pdf)[dataset link](https://github.com/NUSTM/ECPE/tree/master/data_combine)
 ## Requirements
 
 * Python 3.6
