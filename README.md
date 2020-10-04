@@ -1,7 +1,7 @@
 # E2EECPE
 
 This repository contains the code and dataset of the following paper:
-[Haolin Song](https://shl5133.github.io), [Chen Zhang](https://genezc.github.io), [Qiuchi Li](https://qiuchili.github.io), [Dawei Song](http://cs.bit.edu.cn/szdw/jsml/js/sdw/index.htm). **End-to-end Emotion-Cause Pair Extraction via Learning to Link**. arXiv preprint arxiv:2002.10710(2020). [paper link](https://arxiv.org/abs/2002.10710)
+[Haolin Song](https://shl5133.github.io), [Chen Zhang](https://genezc.github.io), [Qiuchi Li](https://qiuchili.github.io), [Dawei Song](http://cs.bit.edu.cn/szdw/jsml/js/sdw/index.htm). **End-to-end Emotion-Cause Pair Extraction via Learning to Link**. arXiv preprint arxiv:2002.10710(2020). [[paper link]](https://arxiv.org/abs/2002.10710)
 
 ## Model
 
