@@ -17,11 +17,11 @@ An overview of our model is given below:
 * PyTorch 1.2.0
 
 ## Usage
-### 1.Clone or download this repository
+#### 1.Clone or download this repository
 ```bash
 git@github.com:shl5133/E2EECPE.git
 ```
-### 2.Run our model
+#### 2.Run our model
 ```bash
 python train.py
 ```
