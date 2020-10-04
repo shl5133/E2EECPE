@@ -9,7 +9,7 @@ An overview of our model is given below:
 
 ![model](/images/model.PNG)
 ## Dataset
-The Dataset we are using is a publicly available dataset released by [(Xia and Ding 2019)](https://www.aclweb.org/anthology/P19-1096.pdf)[dataset link](https://github.com/NUSTM/ECPE/tree/master/data_combine)
+The Dataset we are using is a publicly available dataset released by [(Xia and Ding 2019)](https://www.aclweb.org/anthology/P19-1096.pdf) [[dataset link](https://github.com/NUSTM/ECPE/tree/master/data_combine)]
 ## Requirements
 
 * Python 3.6
