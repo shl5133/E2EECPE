@@ -23,9 +23,7 @@ An overview of our model is given below:
 git@github.com:shl5133/E2EECPE.git
 ```
 #### 2.Download pre-trained word vectors [w2v_200.txt](https://github.com/NUSTM/ECPE/blob/master/data_combine/w2v_200.txt) and place it in the root path
-```bash
-python train.py
-```
+
 #### 3.Run our model
 ```bash
 python train.py
