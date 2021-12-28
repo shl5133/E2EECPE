@@ -24,7 +24,7 @@ git@github.com:shl5133/E2EECPE.git
 ```
 #### 2.Download pre-trained word vectors [w2v_200.txt](https://github.com/NUSTM/ECPE/blob/master/data_combine/w2v_200.txt) and place it in the root path
 ```bash
-wget -c https://github.com/NUSTM/ECPE/blob/master/data_combine/w2v_200.txt
+wget -c https://raw.githubusercontent.com/NUSTM/ECPE/master/data_combine/w2v_200.txt
 ```
 #### 3.Run our model
 ```bash
