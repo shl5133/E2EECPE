@@ -66,9 +66,8 @@ class Biaffine(nn.Module):
             dim2 += 1
         affine = self.linear(input1)
         affine = affine.view(batch_size, len1*self.out_features, dim2)
-        input2 = torch.transpose(input2, 1, 2)
-        biaffine = torch.bmm(affine, input2)
-        biaffine = torch.transpose(biaffine, 1, 2)
+        affine = torch.transpose(affine, 1, 2)
+        biaffine = torch.bmm(input2, affine)
         biaffine = biaffine.contiguous().view(batch_size, len2, len1, self.out_features)
 
         return biaffine
